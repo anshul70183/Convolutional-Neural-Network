@@ -1,0 +1,1 @@
+python train.py --lr 0.001 --batch_size 64 --init 2 --epochs 20 --save_dir ./save_dir/ --dataAugment 1 --train ./train.csv --val ./valid.csv --test ./test.csv 
